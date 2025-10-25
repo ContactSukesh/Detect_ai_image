@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "filename": "222.png",
+    "prediction": 1,
+    "confidence": 0.8208679542801097,
+    "is_ensemble": false,
+    "ensemble_details": null,
+    "timestamp": "2025-10-08T09:47:18.774153",
+    "image_size": "673x1024",
+    "file_format": "PNG"
+  }
+]
